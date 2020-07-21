@@ -11,4 +11,4 @@
 本项目需要本地安装Redis和RabbitMQ，并导入sql文件，rabbitMQ需要新建一个‘miaosha.queue’的队列。
 
 
-项目启动后，默认用户名：13838384438 密码：123456
+项目启动后，访问路径：http://localhost:8080/login/to_login  默认用户名：13838384438 密码：123456
